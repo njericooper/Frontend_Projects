@@ -4,11 +4,11 @@ function greetStudent(student) {
     );
 }
 
-function timeRemaining(tineElapsed, endTime) {
+function timeRemaining(timeElapsed, endTime) {
     return endTime - timeElapsed;
 }
 
-function timeRemaining(tineElapsed, endTime) {
+function timeRemaining(timeElapsed, endTime) {
     return (endTime - timeElapsed) / 2;
 }
 var left = timeRemaining(42, 240);
