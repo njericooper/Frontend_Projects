@@ -15,16 +15,28 @@ class Bookshelf {
             console.log(bookName);
         }
     }
-    
+ 
 }
 
 
-function loadBooks( /* .. */ ) {
-	// TODO: call fakeAjax( .. );
+function loadBooks(mybookshelf) { //an instance of the general Bookshelf calss
+fakeAjax(BOOK_API, function onBooks(bookTitles) {
+    //inline name function expression
+    for (let bookName of bookTitles ) {
+        mybookshelf.addFavoriteBook(bookName)
+    }
+    mybookshelf.printFavoriteBooks(); 
+       
+}); //lexical scope is able to reach BOOK_API
+
+
 }
 
 var BOOK_API = "https://some.url/api";
 
+
+myBooks = new Bookshelf();
+loadBooks(myBooks);
 
 // ***********************
 
