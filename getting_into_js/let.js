@@ -28,3 +28,23 @@ function repeat ( fn, n) {
     }
     return str.slice(4);
  }
+
+ //closure - when a function remembers variables outside of it. This is treating the function as a value
+
+function ask(quesstion) {
+    setTimeout(function waitASec() {
+        console.log(quesstion);
+    }, 100);
+}
+
+ask("What is closure?");
+
+function ask(question) {
+    return function holdYourQuestion() {
+        console.log(question);
+    };
+}
+
+var myQuestion = ask("What is closure?");
+
+myQuestion(); //What is closure?
