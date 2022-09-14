@@ -1,0 +1,22 @@
+h1 {
+    color: red;
+}
+
+p {
+    color: rebeccapurple;
+}
+
+h3 {
+    text-decoration: line-through;
+}
+
+h2 {
+    text-transform: uppercase;
+}
+body{
+    background: slategray;
+}
+
+/* put a semi colon at the end of a line of css, also this is a comment. HSL color values are a bit intimidating. wtf lol. */
+
+/* CSS playground on codepen linked in the course notes https://codepen.io/btholt/pen/ELaxOB */
