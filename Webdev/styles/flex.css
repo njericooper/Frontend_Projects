@@ -1,0 +1,25 @@
+.flex-container {
+    display: flex;
+    width: 100%;
+    border: 1px solid black;
+}
+
+.reverse {
+    flex-direction: row-reverse;
+}
+
+.column {
+    flex-direction: column;
+}
+
+.jc-right {
+    justify-content: flex-end;
+}
+
+.jc-center {
+    justify-content: center;
+}
+
+.jc-sb {
+    justify-content: space-between;
+}
