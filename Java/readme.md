@@ -1,1 +1,34 @@
 ## An About Face my dev path to learn Java from HackerRank
+
+### Learning Journey
+#### Day 1
+Learned stdout and in
+
+#### Day 2
+Realized I was grasping at straws trying to set up my dev environment, so I bought a PluralSight membership. Currently following the Java path.
+
+Beginner section is 50+ hours. If I obsess and do 5-10 hours a day at 1.5 speed, I can wrap it up in 4-6 days.
+
+Day 2 Learning
+
+Learned class file, Java GUIs - AWT, Swing, JavaFX
+
+I'm pretty sure that I may be just using VS Code, terminal, and Git.
+
+I could be wrong. We'll see.
+
+Java Virtual Machine, Java SE APIs, Spring Boot, Spring, and other microframeworks
+
+Mobile Java Dev with Android
+
+Java =! Java Android
+
+#### Day 3
+
+Learning Practices and common tools. Idk if these tools are still common. The IDEs they taught look booty.
+
+SonarQube for CI/QC? No git actions? Or.. am I tripping. Starting to wonder if I'm going to thrive at Java. Did Javascript and highter level languages spoil me?
+
+Groovy is n alternative JVM language. Never heard of it.
+
+Beginning to set up Java Development Environment. I'm going to need more coffee for this.
