@@ -41,3 +41,7 @@ Beginning to set up Java Development Environment. I'm going to need more coffee 
 The course saya use IntelliJ, but I'm trying to find how the cool kids do it with VS Code.
 
 So, I've installed all the Extentions and used Homebrew. Cask is depreciated and I am not able to get the most updated version of the SDK. Hopefully there's a docker container for Java Development. I'll pick up from this thought first thing in the morning. In the evenings, I Learn algorithms with CodeAcademy app for about an hour until I KO. Yes, it's eat, sleep, code season
+
+### Day 5
+
+Found a Livestream from VS Code on How to Set up a Java environment. I think my time would be better spent if I learn algorithms and reading/coding along with Cracking the Coding Interview book.
