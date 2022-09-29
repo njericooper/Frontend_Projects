@@ -45,3 +45,7 @@ So, I've installed all the Extentions and used Homebrew. Cask is depreciated and
 ### Day 5
 
 Found a Livestream from VS Code on How to Set up a Java environment. I think my time would be better spent if I learn algorithms and reading/coding along with Cracking the Coding Interview book.
+
+### Day 6
+
+Still am not able to get Java runtime to work on my machine. Going to about face back to JS and Python. I'll do the algo problems along with the book. Dang just remember Replit exists. No compiler needed. Follow along here. https://replit.com/@njericooper1/Learning-Java#Main.java
